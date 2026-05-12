@@ -1,0 +1,26 @@
+#DoeMais
+
+Plataforma web de doações para ONGs.
+
+## Sobre o projeto
+Sistema desenvolvido em HTML, CSS e JavaScript que permite aos usuários escolher ONGs, definir o motivo da doação e registrar contribuições.
+
+## Funcionalidades
+- Cadastro e login
+- Escolha de ONGs
+- Registro de doações
+- Histórico de doações
+
+##Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+
+##Estrutura
+- css/
+- js/
+- img/
+- requisitos/
+
+##Autora
+Giselle Carla de Lima Silva
