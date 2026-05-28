@@ -1,7 +1,9 @@
 Cadastro de Usuário
 
 COMO visitante do sistema,
+
 QUERO realizar meu cadastro informando meus dados pessoais,
+
 PARA que eu possa acessar as funcionalidades do sistema de doações.
 
 Critérios de Aceitação:
