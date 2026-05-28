@@ -1,0 +1,10 @@
+Login de Usuário
+COMO usuário cadastrado,
+QUERO realizar login no sistema,
+PARA que eu possa acessar minha conta e utilizar as funcionalidades disponíveis.
+Critérios de Aceitação:
+Deve ser possível informar e-mail e senha.
+O sistema deve validar se as credenciais estão corretas.
+O sistema deve exibir mensagem de erro para login inválido.
+O usuário deve ser direcionado para a página inicial após o login.
+O sistema deve manter a sessão do usuário ativa durante o uso.
