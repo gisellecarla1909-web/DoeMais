@@ -1,1 +1,1 @@
-Cadastro de 'campanhas de doação.
+Cadastro de campanhas de doação.
