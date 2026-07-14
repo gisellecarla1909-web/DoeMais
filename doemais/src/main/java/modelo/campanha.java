@@ -1,3 +1,4 @@
+package modelo;
 public class campanha {
 
     private String titulo;

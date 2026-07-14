@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+import modelo.campanha;
+import modelo.usuario;
+
 public class sistema {
     private ArrayList<usuario> usuarios;
     
@@ -25,5 +28,15 @@ public class sistema {
 
         System.out.println("Usuário cadastrado com sucesso!");
         return true;
+    }
+
+    public void cadastrarcampanha(campanha campanha1) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'cadastrarcampanha'");
+    }
+
+    public void login(String string, String string2) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'login'");
     }
 }
